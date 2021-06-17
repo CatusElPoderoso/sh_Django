@@ -1,0 +1,1 @@
+web: gunicorn PAfjango.wsgi --log-file -
